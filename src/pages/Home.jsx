@@ -79,8 +79,11 @@ export default function Home() {
               )
             })}
           </div>
-          <div className='bg-white flex-1 h-[350px] rounded-xl p-2'>
+          <div className='bg-white flex-1 h-[350px] rounded-xl p-2 flex flex-col gap-2'>
 most expenses
+<progress></progress>
+<progress></progress>
+<progress></progress>
           </div>
 
         </div>
